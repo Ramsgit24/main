@@ -2,9 +2,9 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="9.00"
-	Name="num_to_binary"
-	ProjectGUID="{477D5B52-136E-465B-AA6A-A72CB7CCD15B}"
-	RootNamespace="num_to_binary"
+	Name="array.c"
+	ProjectGUID="{BC8A6060-D897-49CD-A262-FC7DAC7E4AC1}"
+	RootNamespace="arrayc"
 	TargetFrameworkVersion="196613"
 	>
 	<Platforms>
@@ -162,7 +162,23 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
-				RelativePath=".\binary.c"
+				RelativePath=".\array.c"
+				>
+			</File>
+			<File
+				RelativePath=".\char_array.c"
+				>
+			</File>
+			<File
+				RelativePath=".\double.c"
+				>
+			</File>
+			<File
+				RelativePath=".\float.array.c"
+				>
+			</File>
+			<File
+				RelativePath=".\intiailzationarry.c"
 				>
 			</File>
 		</Filter>
