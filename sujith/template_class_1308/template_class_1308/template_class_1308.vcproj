@@ -2,9 +2,9 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="9.00"
-	Name="c++ 1st prgm"
-	ProjectGUID="{9469FDD4-C51F-46EA-AA55-CCB83AE1B4AB}"
-	RootNamespace="c1stprgm"
+	Name="template_class_1308"
+	ProjectGUID="{5D1A179F-BFAB-4226-A9DD-8C336E96552E}"
+	RootNamespace="template_class_1308"
 	TargetFrameworkVersion="196613"
 	>
 	<Platforms>
@@ -162,7 +162,7 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
-				RelativePath=".\1st prgm .cpp"
+				RelativePath=".\template_practice.cpp"
 				>
 			</File>
 		</Filter>
