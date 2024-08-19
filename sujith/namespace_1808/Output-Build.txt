@@ -1,0 +1,9 @@
+1>------ Build started: Project: namespace_1808, Configuration: Debug Win32 ------
+1>Compiling...
+1>namespace1.cpp
+1>Linking...
+1>LINK : D:\github\main\namespace_1808\Debug\namespace_1808.exe not found or not built by the last incremental link; performing full link
+1>Embedding manifest...
+1>Build log was saved at "file://d:\github\main\namespace_1808\namespace_1808\Debug\BuildLog.htm"
+1>namespace_1808 - 0 error(s), 0 warning(s)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
