@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "name space c++", "name space c++\name space c++.vcproj", "{F2070187-A1A3-41AD-A39C-ADF8F1492179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2070187-A1A3-41AD-A39C-ADF8F1492179}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F2070187-A1A3-41AD-A39C-ADF8F1492179}.Debug|Win32.Build.0 = Debug|Win32
+		{F2070187-A1A3-41AD-A39C-ADF8F1492179}.Release|Win32.ActiveCfg = Release|Win32
+		{F2070187-A1A3-41AD-A39C-ADF8F1492179}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
