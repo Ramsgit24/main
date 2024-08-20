@@ -30,7 +30,7 @@ int main()
 	scanf("%s",d);
 	ur_strcat(g,d);
 
-	printf("Enter two strings to compare :\n ");
+	printf("\nEnter two strings to compare :\n ");
 	printf("Enter first string  : ");
 	scanf("%s",d);
 	printf("Enter second string  : ");
@@ -45,7 +45,7 @@ int main()
 		printf("%s and %s both are not same\n",d,k);
 	}
 	
-	printf("Enter a string to reverse  : ");
+	printf("\nEnter a string to reverse  : ");
 	scanf("%s",b);
 	ur_strrev(b);
 	return 0;
@@ -89,26 +89,17 @@ void ur_strcat(char f[],char h[])
 
 int ur_strcmp(char m[],char n[])
 {
-	 int i=0,l1,l2;
-	l1=ur_strlen(m);
-	l2=ur_strlen(n);
-
-	if(l1!=l2)
-	{
-		return 1;
-	}
-	else
-	{
-		while(i<l1)
-		{
+	 int i=0,s=0;
+	 while(m[i]!='\0'||n[i]!='\0')
+	 {
 			if(m[i]!= n[i])
 			{
-				return 1;
+				s=1;
+				break;
 			}
 			i++;
-		}
 	}
-	return 0;
+	return s;
 }
 
 void ur_strrev(char r[])
