@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "reference_variable", "reference_variable\reference_variable.vcproj", "{36536B1B-E00F-4F6A-986E-435B79A469AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36536B1B-E00F-4F6A-986E-435B79A469AE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{36536B1B-E00F-4F6A-986E-435B79A469AE}.Debug|Win32.Build.0 = Debug|Win32
+		{36536B1B-E00F-4F6A-986E-435B79A469AE}.Release|Win32.ActiveCfg = Release|Win32
+		{36536B1B-E00F-4F6A-986E-435B79A469AE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

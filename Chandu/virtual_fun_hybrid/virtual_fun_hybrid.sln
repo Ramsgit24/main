@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "virtual_fun_hybrid", "virtual_fun_hybrid\virtual_fun_hybrid.vcproj", "{205388EE-8A57-4829-A109-C3326607CB1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{205388EE-8A57-4829-A109-C3326607CB1D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{205388EE-8A57-4829-A109-C3326607CB1D}.Debug|Win32.Build.0 = Debug|Win32
+		{205388EE-8A57-4829-A109-C3326607CB1D}.Release|Win32.ActiveCfg = Release|Win32
+		{205388EE-8A57-4829-A109-C3326607CB1D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
