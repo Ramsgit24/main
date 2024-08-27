@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointer_virtual_multiple_inheritance_cpp", "pointer_virtual_multiple_inheritance_cpp\pointer_virtual_multiple_inheritance_cpp.vcproj", "{7FB0A723-BBB8-4645-BE51-D67E5E1EEBC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FB0A723-BBB8-4645-BE51-D67E5E1EEBC0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7FB0A723-BBB8-4645-BE51-D67E5E1EEBC0}.Debug|Win32.Build.0 = Debug|Win32
+		{7FB0A723-BBB8-4645-BE51-D67E5E1EEBC0}.Release|Win32.ActiveCfg = Release|Win32
+		{7FB0A723-BBB8-4645-BE51-D67E5E1EEBC0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
