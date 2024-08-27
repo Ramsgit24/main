@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "unary_outside_operator", "unary_outside_operator\unary_outside_operator.vcproj", "{88A2B732-855C-4280-BC17-C82F954EE838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88A2B732-855C-4280-BC17-C82F954EE838}.Debug|Win32.ActiveCfg = Debug|Win32
+		{88A2B732-855C-4280-BC17-C82F954EE838}.Debug|Win32.Build.0 = Debug|Win32
+		{88A2B732-855C-4280-BC17-C82F954EE838}.Release|Win32.ActiveCfg = Release|Win32
+		{88A2B732-855C-4280-BC17-C82F954EE838}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

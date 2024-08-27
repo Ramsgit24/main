@@ -155,3 +155,36 @@ int sr_strcmp(char a[],char b[])
 	}
 	return 0;
 }*/
+//simple method
+/*#include<stdio.h>
+int ur_strcmp(char a[],char b[]);
+int main()
+{
+	char a[]="raghu";
+	char b[]="raghU";
+	int x=ur_strcmp(a,b);
+	if(x==0)
+	{
+		printf("it is same\n");
+	}
+	else
+	{
+		printf("it is not same\n");
+	}
+
+}
+int ur_strcmp(char a[],char b[])
+{
+	int i=0;
+	int s=0;
+	while((a[i]!='\0') || (b[i]!='\0'))
+	{
+		if(a[i]!=b[i])
+		{
+			s=1;
+			break;
+		}
+		i++;
+	}
+	return s;
+}*/

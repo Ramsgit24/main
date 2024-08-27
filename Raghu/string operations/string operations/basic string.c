@@ -1,7 +1,7 @@
 //#include<stdio.h>
 //int main()
 //{
-//	char a[8]="hello";
+//	char a[6]="hello";
 //	
 //		printf("%s\n",a);
 //		printf("%d\n",&a);

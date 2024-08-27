@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "virthual class", "virthual class\virthual class.vcproj", "{D77A1F1D-0780-48EC-8C08-093F8B49681C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D77A1F1D-0780-48EC-8C08-093F8B49681C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D77A1F1D-0780-48EC-8C08-093F8B49681C}.Debug|Win32.Build.0 = Debug|Win32
+		{D77A1F1D-0780-48EC-8C08-093F8B49681C}.Release|Win32.ActiveCfg = Release|Win32
+		{D77A1F1D-0780-48EC-8C08-093F8B49681C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
