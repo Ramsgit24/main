@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "virtual_pointer_class", "virtual_pointer_class\virtual_pointer_class.vcproj", "{CA0EE7D2-9E6A-4F12-A2BB-A8C851E3B648}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA0EE7D2-9E6A-4F12-A2BB-A8C851E3B648}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CA0EE7D2-9E6A-4F12-A2BB-A8C851E3B648}.Debug|Win32.Build.0 = Debug|Win32
+		{CA0EE7D2-9E6A-4F12-A2BB-A8C851E3B648}.Release|Win32.ActiveCfg = Release|Win32
+		{CA0EE7D2-9E6A-4F12-A2BB-A8C851E3B648}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
