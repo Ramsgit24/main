@@ -38,9 +38,9 @@ A operator++(A &tobj1)
 
 A operator++(A &tobj1,int a)
 {
-	A tobj2=tobj1;
-	tobj1.x=tobj1.x++;
-	tobj1.y=tobj1.y++;
+	A tobj2;
+	tobj2.x=tobj1.x++;
+	tobj2.y=tobj1.y++;
 	return tobj2;
 }
 
