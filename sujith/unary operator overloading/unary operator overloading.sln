@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "unary operator overloading", "unary operator overloading\unary operator overloading.vcproj", "{0F73DB2F-8E5F-41C5-B31D-E40EECAF0AD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F73DB2F-8E5F-41C5-B31D-E40EECAF0AD4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0F73DB2F-8E5F-41C5-B31D-E40EECAF0AD4}.Debug|Win32.Build.0 = Debug|Win32
+		{0F73DB2F-8E5F-41C5-B31D-E40EECAF0AD4}.Release|Win32.ActiveCfg = Release|Win32
+		{0F73DB2F-8E5F-41C5-B31D-E40EECAF0AD4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
