@@ -2,9 +2,9 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="9.00"
-	Name="c++ 1st prgm"
-	ProjectGUID="{9469FDD4-C51F-46EA-AA55-CCB83AE1B4AB}"
-	RootNamespace="c1stprgm"
+	Name="Structure_passed_Array"
+	ProjectGUID="{7CD84929-549A-4F77-BB4C-8BDD5394565C}"
+	RootNamespace="Structure_passed_Array"
 	TargetFrameworkVersion="196613"
 	>
 	<Platforms>
@@ -162,7 +162,7 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
-				RelativePath=".\1st prgm .cpp"
+				RelativePath=".\structure_passed_Array.c"
 				>
 			</File>
 		</Filter>
