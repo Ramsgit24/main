@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "return_pointers", "return_pointers\return_pointers.vcproj", "{19E8FFF4-7E6C-406D-AC91-BF67C29EC0CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19E8FFF4-7E6C-406D-AC91-BF67C29EC0CB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{19E8FFF4-7E6C-406D-AC91-BF67C29EC0CB}.Debug|Win32.Build.0 = Debug|Win32
+		{19E8FFF4-7E6C-406D-AC91-BF67C29EC0CB}.Release|Win32.ActiveCfg = Release|Win32
+		{19E8FFF4-7E6C-406D-AC91-BF67C29EC0CB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

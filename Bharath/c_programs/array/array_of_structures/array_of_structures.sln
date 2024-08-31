@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "array_of_structures", "array_of_structures\array_of_structures.vcproj", "{A2B4CB6E-BAC7-4E70-ABA8-569C2834F7F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2B4CB6E-BAC7-4E70-ABA8-569C2834F7F2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A2B4CB6E-BAC7-4E70-ABA8-569C2834F7F2}.Debug|Win32.Build.0 = Debug|Win32
+		{A2B4CB6E-BAC7-4E70-ABA8-569C2834F7F2}.Release|Win32.ActiveCfg = Release|Win32
+		{A2B4CB6E-BAC7-4E70-ABA8-569C2834F7F2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

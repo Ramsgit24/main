@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "recursive_fun", "recursive_fun\recursive_fun.vcproj", "{9C531AF9-043D-420C-AD16-3F693531A80B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C531AF9-043D-420C-AD16-3F693531A80B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9C531AF9-043D-420C-AD16-3F693531A80B}.Debug|Win32.Build.0 = Debug|Win32
+		{9C531AF9-043D-420C-AD16-3F693531A80B}.Release|Win32.ActiveCfg = Release|Win32
+		{9C531AF9-043D-420C-AD16-3F693531A80B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

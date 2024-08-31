@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "reverse_elements_of_array", "reverse_elements_of_array\reverse_elements_of_array.vcproj", "{EE467C04-916B-46BE-8460-235AA0B83436}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE467C04-916B-46BE-8460-235AA0B83436}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE467C04-916B-46BE-8460-235AA0B83436}.Debug|Win32.Build.0 = Debug|Win32
+		{EE467C04-916B-46BE-8460-235AA0B83436}.Release|Win32.ActiveCfg = Release|Win32
+		{EE467C04-916B-46BE-8460-235AA0B83436}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

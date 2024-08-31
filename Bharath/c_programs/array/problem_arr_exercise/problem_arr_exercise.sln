@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "problem_arr_exercise", "problem_arr_exercise.vcproj", "{1A49D91C-2AE8-4E3C-A537-55C0FD8F3151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A49D91C-2AE8-4E3C-A537-55C0FD8F3151}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1A49D91C-2AE8-4E3C-A537-55C0FD8F3151}.Debug|Win32.Build.0 = Debug|Win32
+		{1A49D91C-2AE8-4E3C-A537-55C0FD8F3151}.Release|Win32.ActiveCfg = Release|Win32
+		{1A49D91C-2AE8-4E3C-A537-55C0FD8F3151}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
