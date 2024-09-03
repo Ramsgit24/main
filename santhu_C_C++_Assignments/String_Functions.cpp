@@ -1,9 +1,9 @@
 #include<stdio.h>
-int ur_strlen(char []);
-void ur_strcpy(char [],char []);
-void ur_strcat(char [],char []);
-int ur_strcmp(char [],char []);
-void ur_strrev(char []);
+int ur_strlen(char* );
+void ur_strcpy(char* ,char*);
+void ur_strcat(char *,char*);
+int ur_strcmp(char *,char *);
+void ur_strrev(char* );
 int main()
 {
 	char a[]="santhu";
@@ -28,28 +28,30 @@ int main()
 	printf("String Reverse %s\n",h);
 	return 0;
 }
-int ur_strlen(char a[])
+int ur_strlen(char* a)
 {
 	int i;
 	i=0;
-	while(a[i] != '\0'){
+	while(*a != '\0'){
 		i++;
+		a++;
 	}
 	return i;
 }
-void ur_strcpy(char d[],char s[])
+void ur_strcpy(char* d,char* s)
 {
-	int len;
+
 	int i;	
 	i=0;
-	while(d[i]!=0)
+	while(*d != '\0')
 	{
-		s[i] = d[i];
-		i++;
+		*s = *d;
+        d++;
+        s++;
 		
 	}
 }
-void ur_strcat(char d[],char s[])
+void ur_strcat(char* d,char* s)
 {
 	//d=santhu
 	//s=embedded
@@ -57,52 +59,54 @@ void ur_strcat(char d[],char s[])
 	int i;	
 	i=0;
 	len = ur_strlen(d);
-	while(s[i] != '\0')
+	d+=len;
+	while(*s != '\0')
 	{
-		d[len] = s[i];
-		len++;
-		i++;
+		*d = *s;
+		d++;
+		s++;
 	}
+	*d='\0';
 }
-int ur_strcmp(char s[],char d[])
+int ur_strcmp(char* s,char* d)
 {
 	//santhu
 	//santku
-	int len;
 	int i;
 	int result;
 	result = 0;
 	i=0;
 	
-	while(s[i] != '\0' || d[i] != '\0')
+	while(*s != '\0' || *d != '\0')
 	{
-		if(s[i] != d[i])
+		if(*s != *d)
 		{
 			result = 1;
 			break;
 		}
 		else
 		{
-			i++;
+		d++;
+		s++;
 		}
 	}
 	
 	return result;
 }
-void ur_strrev(char s[])
+void ur_strrev(char* s)
 {
 	int len;
-	int i;
-	int j;
+	char* i;
+	char* j;
 	char temp;
 	len = ur_strlen(s);
-	i=0;
-	j=len - 1;
-	while(s[i] != '\0' && i<j)
+	i=s;
+	j=s + len - 1;
+	while(i<j)
 	{		
-		temp = s[i];
-		s[i] = s[j];
-		s[j] = temp;
+		temp = *i;
+		*i = *j;
+		*j = temp;
 		i++;
 		j--;
 	}
