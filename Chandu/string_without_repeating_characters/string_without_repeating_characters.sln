@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "string_without_repeating_characters", "string_without_repeating_characters\string_without_repeating_characters.vcproj", "{E156FD7C-BD37-4F4A-BF7D-D7AD71FAD431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E156FD7C-BD37-4F4A-BF7D-D7AD71FAD431}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E156FD7C-BD37-4F4A-BF7D-D7AD71FAD431}.Debug|Win32.Build.0 = Debug|Win32
+		{E156FD7C-BD37-4F4A-BF7D-D7AD71FAD431}.Release|Win32.ActiveCfg = Release|Win32
+		{E156FD7C-BD37-4F4A-BF7D-D7AD71FAD431}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
