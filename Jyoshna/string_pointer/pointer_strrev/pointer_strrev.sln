@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointer_strrev", "pointer_strrev\pointer_strrev.vcproj", "{7D988FC6-B495-4CA2-A571-AF3A2605A755}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D988FC6-B495-4CA2-A571-AF3A2605A755}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7D988FC6-B495-4CA2-A571-AF3A2605A755}.Debug|Win32.Build.0 = Debug|Win32
+		{7D988FC6-B495-4CA2-A571-AF3A2605A755}.Release|Win32.ActiveCfg = Release|Win32
+		{7D988FC6-B495-4CA2-A571-AF3A2605A755}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
