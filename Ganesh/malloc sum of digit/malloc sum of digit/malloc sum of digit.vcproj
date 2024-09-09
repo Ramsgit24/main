@@ -2,9 +2,9 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="9.00"
-	Name="static cast.cpp"
-	ProjectGUID="{935DF052-A96D-4D44-BD39-28244A0DD7A8}"
-	RootNamespace="staticcastcpp"
+	Name="malloc sum of digit"
+	ProjectGUID="{9C9FA7C3-E386-49BB-B111-A2239662D5FE}"
+	RootNamespace="mallocsumofdigit"
 	TargetFrameworkVersion="196613"
 	>
 	<Platforms>
@@ -162,7 +162,7 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
-				RelativePath=".\static.cpp"
+				RelativePath=".\malloc .c"
 				>
 			</File>
 		</Filter>
