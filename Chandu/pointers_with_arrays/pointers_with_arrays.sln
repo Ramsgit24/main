@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointers_with_arrays", "pointers_with_arrays\pointers_with_arrays.vcproj", "{6F593805-96AA-4577-A8C1-4DBE20D402EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F593805-96AA-4577-A8C1-4DBE20D402EA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6F593805-96AA-4577-A8C1-4DBE20D402EA}.Debug|Win32.Build.0 = Debug|Win32
+		{6F593805-96AA-4577-A8C1-4DBE20D402EA}.Release|Win32.ActiveCfg = Release|Win32
+		{6F593805-96AA-4577-A8C1-4DBE20D402EA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "void_pointer", "void_pointer\void_pointer.vcproj", "{80163D88-D2AF-41E3-85B6-06AE46615E9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80163D88-D2AF-41E3-85B6-06AE46615E9B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{80163D88-D2AF-41E3-85B6-06AE46615E9B}.Debug|Win32.Build.0 = Debug|Win32
+		{80163D88-D2AF-41E3-85B6-06AE46615E9B}.Release|Win32.ActiveCfg = Release|Win32
+		{80163D88-D2AF-41E3-85B6-06AE46615E9B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
