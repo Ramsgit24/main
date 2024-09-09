@@ -33,16 +33,18 @@
 //	{
 //		cout<<"check function"<<endl;
 //	}
-//};
+//}
 ////void fun ()
 ////{
 ////	cout<<"Abx"<<endl;(ambigutive error)
 ////}
+//
 //int main()
 //{
 //	using namespace xyz;
-//	a=30;
-//	b=40;
+//	
+//	a=30; //int a=10;
+//	b=40;	//int b=30;
 //	A obj1;
 //	B obj2;
 //	obj1.x=44;
@@ -50,5 +52,8 @@
 //	obj1.disp();
 //	fun();
 //	check();
+//	int cin=12;
+//	cout<<a<<endl;
+//	cout<<cin<<endl;
 //
 //}
