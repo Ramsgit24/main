@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "virtual_destructor_diamond_inher_new_oper", "virtual_destructor_diamond_inher_new_oper\virtual_destructor_diamond_inher_new_oper.vcproj", "{906ADD6F-FBA3-4008-A55D-5A04530936AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{906ADD6F-FBA3-4008-A55D-5A04530936AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{906ADD6F-FBA3-4008-A55D-5A04530936AF}.Debug|Win32.Build.0 = Debug|Win32
+		{906ADD6F-FBA3-4008-A55D-5A04530936AF}.Release|Win32.ActiveCfg = Release|Win32
+		{906ADD6F-FBA3-4008-A55D-5A04530936AF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
