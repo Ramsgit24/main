@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "array_4D_prgm", "array_4D_prgm\array_4D_prgm.vcproj", "{E41088B2-1017-49B5-B3B5-5803F4F5C80B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E41088B2-1017-49B5-B3B5-5803F4F5C80B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E41088B2-1017-49B5-B3B5-5803F4F5C80B}.Debug|Win32.Build.0 = Debug|Win32
+		{E41088B2-1017-49B5-B3B5-5803F4F5C80B}.Release|Win32.ActiveCfg = Release|Win32
+		{E41088B2-1017-49B5-B3B5-5803F4F5C80B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "decrement operator", "decrement operator\decrement operator.vcproj", "{7519E0FD-ED3C-4AA1-A40E-9CCBCCDB06FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7519E0FD-ED3C-4AA1-A40E-9CCBCCDB06FD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7519E0FD-ED3C-4AA1-A40E-9CCBCCDB06FD}.Debug|Win32.Build.0 = Debug|Win32
+		{7519E0FD-ED3C-4AA1-A40E-9CCBCCDB06FD}.Release|Win32.ActiveCfg = Release|Win32
+		{7519E0FD-ED3C-4AA1-A40E-9CCBCCDB06FD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

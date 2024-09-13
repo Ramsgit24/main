@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "for loop free prgm", "for loop free prgm\for loop free prgm.vcproj", "{47D2D197-275F-4ECC-9E96-21CA3E14B43E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47D2D197-275F-4ECC-9E96-21CA3E14B43E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47D2D197-275F-4ECC-9E96-21CA3E14B43E}.Debug|Win32.Build.0 = Debug|Win32
+		{47D2D197-275F-4ECC-9E96-21CA3E14B43E}.Release|Win32.ActiveCfg = Release|Win32
+		{47D2D197-275F-4ECC-9E96-21CA3E14B43E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+1>------ Build started: Project: character program, Configuration: Debug Win32 ------
+1>Compiling...
+1>character program.cpp
+1>s:\c programs\character program\character program\character program.cpp(5) : error C2017: illegal escape sequence
+1>s:\c programs\character program\character program\character program.cpp(5) : error C2146: syntax error : missing ')' before identifier 'n'
+1>s:\c programs\character program\character program\character program.cpp(5) : error C2059: syntax error : ')'
+1>s:\c programs\character program\character program\character program.cpp(8) : error C2065: 'o' : undeclared identifier
+1>Build log was saved at "file://s:\c programs\character program\character program\Debug\BuildLog.htm"
+1>character program - 4 error(s), 0 warning(s)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "array_of_struc_as_fun_parameter", "array_of_struc_as_fun_parameter\array_of_struc_as_fun_parameter.vcproj", "{423E5C7B-4032-4303-92C7-670F61CEBE60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{423E5C7B-4032-4303-92C7-670F61CEBE60}.Debug|Win32.ActiveCfg = Debug|Win32
+		{423E5C7B-4032-4303-92C7-670F61CEBE60}.Debug|Win32.Build.0 = Debug|Win32
+		{423E5C7B-4032-4303-92C7-670F61CEBE60}.Release|Win32.ActiveCfg = Release|Win32
+		{423E5C7B-4032-4303-92C7-670F61CEBE60}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

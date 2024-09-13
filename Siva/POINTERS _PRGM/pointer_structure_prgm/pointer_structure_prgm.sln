@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointer_structure_prgm", "pointer_structure_prgm\pointer_structure_prgm.vcproj", "{683E97C5-428C-4420-A181-27A77F4942AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{683E97C5-428C-4420-A181-27A77F4942AB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{683E97C5-428C-4420-A181-27A77F4942AB}.Debug|Win32.Build.0 = Debug|Win32
+		{683E97C5-428C-4420-A181-27A77F4942AB}.Release|Win32.ActiveCfg = Release|Win32
+		{683E97C5-428C-4420-A181-27A77F4942AB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

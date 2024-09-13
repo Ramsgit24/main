@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "two dimen array", "two dimen array\two dimen array.vcproj", "{2C4AE47B-6DAA-4427-AA7F-C5C765C2A46A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C4AE47B-6DAA-4427-AA7F-C5C765C2A46A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2C4AE47B-6DAA-4427-AA7F-C5C765C2A46A}.Debug|Win32.Build.0 = Debug|Win32
+		{2C4AE47B-6DAA-4427-AA7F-C5C765C2A46A}.Release|Win32.ActiveCfg = Release|Win32
+		{2C4AE47B-6DAA-4427-AA7F-C5C765C2A46A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

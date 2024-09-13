@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "set bit prgm", "set bit prgm\set bit prgm.vcproj", "{F293B91A-434A-4C23-9D4A-7A1173E68769}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F293B91A-434A-4C23-9D4A-7A1173E68769}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F293B91A-434A-4C23-9D4A-7A1173E68769}.Debug|Win32.Build.0 = Debug|Win32
+		{F293B91A-434A-4C23-9D4A-7A1173E68769}.Release|Win32.ActiveCfg = Release|Win32
+		{F293B91A-434A-4C23-9D4A-7A1173E68769}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

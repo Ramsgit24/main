@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "array_as_function_parameter", "array_as_function_parameter\array_as_function_parameter.vcproj", "{9974E9D7-9D7E-4995-B7C9-75FACAA1630F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9974E9D7-9D7E-4995-B7C9-75FACAA1630F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9974E9D7-9D7E-4995-B7C9-75FACAA1630F}.Debug|Win32.Build.0 = Debug|Win32
+		{9974E9D7-9D7E-4995-B7C9-75FACAA1630F}.Release|Win32.ActiveCfg = Release|Win32
+		{9974E9D7-9D7E-4995-B7C9-75FACAA1630F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "while decrement prgm", "while decrement prgm\while decrement prgm.vcproj", "{E5DFB641-8493-4C96-9167-2270A3D8DFFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5DFB641-8493-4C96-9167-2270A3D8DFFE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E5DFB641-8493-4C96-9167-2270A3D8DFFE}.Debug|Win32.Build.0 = Debug|Win32
+		{E5DFB641-8493-4C96-9167-2270A3D8DFFE}.Release|Win32.ActiveCfg = Release|Win32
+		{E5DFB641-8493-4C96-9167-2270A3D8DFFE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
