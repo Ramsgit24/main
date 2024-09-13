@@ -1,2 +1,0 @@
-hi this is chandu
-i am pushing my first file to my branch name chandu
