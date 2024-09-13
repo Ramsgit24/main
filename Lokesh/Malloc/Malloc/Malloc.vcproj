@@ -3,7 +3,7 @@
 	ProjectType="Visual C++"
 	Version="9.00"
 	Name="Malloc"
-	ProjectGUID="{8BB5DFD4-5533-43E4-9954-699F5D174023}"
+	ProjectGUID="{DA60BC41-20E8-4DA9-916B-7C49461F7640}"
 	RootNamespace="Malloc"
 	TargetFrameworkVersion="196613"
 	>
@@ -162,11 +162,7 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
-				RelativePath=".\Malloc.cpp"
-				>
-			</File>
-			<File
-				RelativePath=".\Malloc_dynamic.cpp"
+				RelativePath=".\Malloc.c"
 				>
 			</File>
 		</Filter>

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual C++ Express 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Malloc", "Malloc\Malloc.vcproj", "{8BB5DFD4-5533-43E4-9954-699F5D174023}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Malloc", "Malloc\Malloc.vcproj", "{DA60BC41-20E8-4DA9-916B-7C49461F7640}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8BB5DFD4-5533-43E4-9954-699F5D174023}.Debug|Win32.ActiveCfg = Debug|Win32
-		{8BB5DFD4-5533-43E4-9954-699F5D174023}.Debug|Win32.Build.0 = Debug|Win32
-		{8BB5DFD4-5533-43E4-9954-699F5D174023}.Release|Win32.ActiveCfg = Release|Win32
-		{8BB5DFD4-5533-43E4-9954-699F5D174023}.Release|Win32.Build.0 = Release|Win32
+		{DA60BC41-20E8-4DA9-916B-7C49461F7640}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DA60BC41-20E8-4DA9-916B-7C49461F7640}.Debug|Win32.Build.0 = Debug|Win32
+		{DA60BC41-20E8-4DA9-916B-7C49461F7640}.Release|Win32.ActiveCfg = Release|Win32
+		{DA60BC41-20E8-4DA9-916B-7C49461F7640}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
