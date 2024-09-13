@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "setter.c", "setter.c\setter.c.vcproj", "{96F12EF9-E7EB-4157-8428-A6774736B095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96F12EF9-E7EB-4157-8428-A6774736B095}.Debug|Win32.ActiveCfg = Debug|Win32
+		{96F12EF9-E7EB-4157-8428-A6774736B095}.Debug|Win32.Build.0 = Debug|Win32
+		{96F12EF9-E7EB-4157-8428-A6774736B095}.Release|Win32.ActiveCfg = Release|Win32
+		{96F12EF9-E7EB-4157-8428-A6774736B095}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

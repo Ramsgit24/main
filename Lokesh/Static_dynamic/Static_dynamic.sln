@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Static_dynamic", "Static_dynamic\Static_dynamic.vcproj", "{0776918B-CC60-40DD-9498-374129C4018F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0776918B-CC60-40DD-9498-374129C4018F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0776918B-CC60-40DD-9498-374129C4018F}.Debug|Win32.Build.0 = Debug|Win32
+		{0776918B-CC60-40DD-9498-374129C4018F}.Release|Win32.ActiveCfg = Release|Win32
+		{0776918B-CC60-40DD-9498-374129C4018F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

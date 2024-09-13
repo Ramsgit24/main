@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dangling", "Dangling\Dangling.vcproj", "{F0E6A4D2-2376-482E-8A33-963A5765A7CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0E6A4D2-2376-482E-8A33-963A5765A7CC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F0E6A4D2-2376-482E-8A33-963A5765A7CC}.Debug|Win32.Build.0 = Debug|Win32
+		{F0E6A4D2-2376-482E-8A33-963A5765A7CC}.Release|Win32.ActiveCfg = Release|Win32
+		{F0E6A4D2-2376-482E-8A33-963A5765A7CC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
