@@ -2,9 +2,9 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="9.00"
-	Name="1.c"
-	ProjectGUID="{6065D8A0-F068-40DE-A0D2-CD69544E585C}"
-	RootNamespace="My1c"
+	Name="friend_class"
+	ProjectGUID="{686FC8AE-1DAF-476E-B4B8-F9F3244A7888}"
+	RootNamespace="friend_class"
 	TargetFrameworkVersion="196613"
 	>
 	<Platforms>
@@ -162,7 +162,7 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
-				RelativePath=".\ex.cpp"
+				RelativePath=".\friend_class.cpp"
 				>
 			</File>
 		</Filter>
