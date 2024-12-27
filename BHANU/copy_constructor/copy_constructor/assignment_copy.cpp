@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 class A{
     int x,y;
@@ -11,7 +11,7 @@ public:
         *ptr = 30;
     }
     A(const A& obj1){
-        x = obj1.x;`1
+        x = obj1.x;
         y = obj1.y;
         ptr = new int;
         *ptr = *obj1.ptr;
@@ -39,9 +39,10 @@ public:
 int main(){
     A obj1;
     A obj2 = obj1;    //deep copy
+    obj2.assign(11,22,33);
     A obj3;
     obj3 = obj2;      //assignment copy operator overloading
     obj1.display();
     obj2.display();
     obj3.display();
-}*/
+}
