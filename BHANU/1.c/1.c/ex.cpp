@@ -58,6 +58,7 @@ public:
 
 int main() {
     int month, year;
+    cout<<"hello world"<<endl;
     cout << "Enter month (1-12): ";
     cin >> month;
     cout << "Enter year: ";
